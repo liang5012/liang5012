@@ -5,7 +5,7 @@
 
 
 -->
-- 🌱 I’m a Econ PHD sutendt in China.
+- 🌱 I’m a Econ PHD student in China.
 - 🤔 I’m looking for help with python, econ and math.
 - 😄 Pronouns: He and Him
 - ⚡ Fun fact: ...
